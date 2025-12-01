@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "タキシード・ミラージュ",
+  "base_artist": "三石 琴乃、富沢 美智恵、久川 綾、篠原 恵美、深見 梨加",
+  "createdAt": "2025-12-01T17:09:15.802147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タキシード・ミラージュ",
+      "artist": "Akiko Kosaka",
+      "has_synced": false,
+      "path": "select/01_タキシード・ミラージュ_Akiko_Kosaka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タキシード・ミラージュ -ZZ ver.-",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/02_タキシード・ミラージュ_-ZZ_ver.-_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "タキシード・ミラージュ（オリジナルカラオケ）",
+      "artist": "三石琴乃、富沢美智恵、久川綾、篠原恵美、深見梨加",
+      "has_synced": false,
+      "path": "select/03_タキシード・ミラージュ(オリジナルカラオケ)_三石琴乃、富沢美智恵、久川綾、篠原恵美、深見梨加.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "タキシード・ミラージュ",
+      "artist": "三石琴乃、富沢美智恵、久川綾、篠原恵美、深見梨加",
+      "has_synced": false,
+      "path": "select/04_タキシード・ミラージュ_三石琴乃、富沢美智恵、久川綾、篠原恵美、深見梨加.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タキシード・ミラージュ -ZZ ver.-",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/05_タキシード・ミラージュ_-ZZ_ver.-_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "タキシード・ミラージュ",
+      "artist": "三石琴乃, 久川綾, 篠原恵美, 深見梨加, 富沢美智恵",
+      "has_synced": true,
+      "path": "select/06_タキシード・ミラージュ_三石琴乃,_久川綾,_篠原恵美,_深見梨加,_富沢美智恵.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タキシードミラージュ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_01_タキシードミラージュ_ももいろクローバーZ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "タキシード・ミラージュ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_02_タキシード・ミラージュ_ももいろクローバーZ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "タキシード・ミラージュ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_03_タキシード・ミラージュ_ももいろクローバーZ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "タキシード・ミラージュ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_04_タキシード・ミラージュ_ももいろクローバーZ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "タキシード・ミラージュ",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/pl_05_タキシード・ミラージュ_ももいろクローバーZ.txt"
+    }
+  ]
+}
